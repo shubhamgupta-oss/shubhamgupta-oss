@@ -1,83 +1,107 @@
 # Hi, I'm Shubham Gupta 👋
 
-> Building useful, reliable software and open-source tools. I enjoy taking complex problems and turning them into simple, maintainable solutions.
+> Full-Stack Software Engineer with 3+ years of experience building scalable web applications and media-heavy platforms.  
+> I focus on clean code, performance, and shipping reliable, production-ready features.
 
 [![GitHub followers](https://img.shields.io/github/followers/shubhamgupta-oss?label=Follow&style=social)](https://github.com/shubhamgupta-oss)
-[![Website](https://img.shields.io/badge/website-%3Cadd%20your%20url%3E-blue)](https://example.com)
-[![Email](https://img.shields.io/badge/email-%3Cadd%20your%20email%3E-green)](mailto:you@example.com)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Shubham%20Gupta-orange?logo=leetcode)](https://leetcode.com/u/shubhamgupta/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Shubham%20Gupta-blue?logo=linkedin)](https://www.linkedin.com/in/shubham-gupta-990756114/)
+[![Email](https://img.shields.io/badge/Email-shubhamagrahari18%40gmail.com-green)](mailto:shubhamagrahari18@gmail.com)
 
 ---
 
 ## 🚀 About Me
-I am a developer focused on building practical, well-tested software and contributing to open-source. I care about clean code, developer experience, and shipping things that matter.
 
-- 🔭 Currently: working on improving developer tooling and open-source projects
-- 🌱 Learning: scalable systems, developer UX, and advanced TypeScript patterns
-- 💬 Ask me about: design for maintainability, testing strategies, and OSS contribution
-- ⚡ Fun fact: I love turning ideas into tiny, delightful developer tools
+I’m a **Full-Stack Engineer** experienced in building **React-based frontends**, **Node.js backends**, and **scalable APIs**.  
+I’ve worked on **high-traffic consumer applications and OTT platforms**, contributing to feature development, performance optimization, and production bug fixes.
 
----
-
-## 🛠️ Core Skills
-- Languages: JavaScript / TypeScript, Python, Go
-- Frameworks & Libraries: Node.js, React, Express, Next.js
-- DevOps & Tooling: Docker, GitHub Actions, CI/CD, Terraform (cloud basics)
-- Testing: Jest, Playwright, pytest
-- Practices: TDD, clean architecture, API design, semantic versioning
-
-(Replace the line above with your exact skills; this is a template.)
+- 🔭 Currently working on full-stack product features and media workflows
+- 🌱 Improving system design, backend scalability, and frontend performance
+- 💬 Ask me about React, Node.js, REST APIs, and real-world engineering practices
+- ⚡ I value clarity, maintainability, and shipping features that actually get used
 
 ---
 
-## ✨ Featured Projects
-Below are some highlighted projects. Replace with your own favorites (title, 1-line summary, and link).
+## 🛠️ Tech Stack
 
-- [project-one](https://github.com/your/project-one) — Short description of what it does and why it matters.
-- [project-two](https://github.com/your/project-two) — Short description and the main technologies used.
-- [project-three](https://github.com/your/project-three) — Short description and the biggest achievement.
+### 👨‍💻 Languages
+- JavaScript (ES6+)
+- TypeScript
+- Java
+- SQL
+- NoSQL
 
----
+### ⚙️ Frontend
+- React.js, Next.js
+- Redux
+- HTML5, CSS, Tailwind CSS
 
-## 🔭 What I’m Working On
-- Improving an open-source CLI to enhance developer productivity.
-- Building a tiny library to standardize error handling across services.
-- Mentoring newcomers in open-source contribution workflows.
+### 🔧 Backend
+- Node.js, Express.js
+- RESTful API design
+- Authentication (JWT, role-based access)
 
----
+### 🗄 Databases & Caching
+- MongoDB
+- PostgreSQL
+- Redis
 
-## 📈 GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=shubhamgupta-oss&show_icons=true&theme=default)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shubhamgupta-oss&layout=compact)
+### 🧪 Testing & Tooling
+- Jest, selenium
+- Git & GitHub
+- Postman, BrowserStack
 
----
-
-## 🤝 Let’s Collaborate
-I’m open to collaborating on meaningful open-source projects, mentoring, and short-term freelance work.
-
-- 🔗 Portfolio: [Your Website](https://example.com)
-- 💼 LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourprofile)
-- 🐦 Twitter: [@yourhandle](https://twitter.com/yourhandle)
-- ✉️ Email: you@example.com
-
----
-
-## 💡 How to Work With Me
-- I prefer open issues + small, focused PRs.
-- I like clear acceptance criteria and tests for new features.
-- For consulting or contracting, please reach out by email or LinkedIn with a short description and timeline.
+### ☁️ Media & Cloud
+- Cloudinary
+- FFmpeg (basic usage)
+- Video streaming fundamentals (HLS, DASH, HTML5 video)
 
 ---
 
-## 🎯 Goals & Open Source Focus
-- Build developer-first tools that simplify daily workflows.
-- Mentor 5+ new open-source contributors this year.
-- Maintain a small set of stable, well-documented libraries.
+## ✨ Selected Projects
+
+- 🎬 **Video Streaming Player**  
+  Custom React video player with HLS playback, quality switching, and optimized controls  
+  🔗 https://github.com/shubhamgupta-oss/videoPlayer
+
+- 🖼 **AI Image Generator App**  
+  Full-stack application using React, Node.js, MongoDB, Cloudinary, and OpenAI APIs  
+  🔗 https://github.com/shubhamgupta-oss/imageGeneratorAI
+
+- 📝 **SEO-Friendly Blog Platform**  
+  Built a blog system with authentication, role-based access, and performance optimizations  
+  
 
 ---
 
-## 📚 Interests
-Open-source, developer tooling, minimal UX design, coffee, long-distance running
+## 🔭 What I’m Currently Focused On
+- Building maintainable, scalable full-stack systems
+- Improving frontend performance and user experience
+- Writing cleaner APIs and improving backend reliability
+- Strengthening problem-solving and system design skills
 
 ---
 
-If you like my work, feel free to star my projects and follow for updates!
+## 💡 How I Work
+- Clean, readable, and well-structured code
+- Small, focused commits and PRs
+- Clear requirements and predictable behavior
+- Performance and maintainability over shortcuts
+
+---
+
+## 🎯 Career Goals
+- Grow as a strong **full-stack engineer** with solid system-design fundamentals
+- Work on **large-scale, user-facing products**
+- Continuously improve code quality, architecture, and engineering practices
+- Contribute to open-source projects and collaborate with other developers
+
+---
+
+## 🤝 Let’s Connect
+- 💼 LinkedIn: https://www.linkedin.com/in/shubham-gupta-990756114/
+- ✉️ Email: shubhamagrahari18@gmail.com
+
+---
+
+If you find my work useful, feel free to ⭐ my repositories or reach out for collaboration.
