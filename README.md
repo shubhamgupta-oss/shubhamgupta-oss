@@ -1,8 +1,9 @@
 # Hi, I'm Shubham Gupta 👋
 
-> Full-Stack Software Engineer with 3+ years of experience building scalable web applications and media-heavy platforms.  
+> Full-Stack Software Engineer with ~4 years of experience building scalable web applications and media-heavy platforms.  
 > I focus on clean code, performance, and shipping reliable, production-ready features.
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Site-black?style=for-the-badge)](https://shubham-t2ki.onrender.com)
 [![GitHub followers](https://img.shields.io/github/followers/shubhamgupta-oss?label=Follow&style=social)](https://github.com/shubhamgupta-oss)
 [![LeetCode](https://img.shields.io/badge/LeetCode-Shubham%20Gupta-orange?logo=leetcode)](https://leetcode.com/u/shubhamgupta/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Shubham%20Gupta-blue?logo=linkedin)](https://www.linkedin.com/in/shubham-gupta-990756114/)
