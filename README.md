@@ -5,7 +5,7 @@
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Site-black?style=for-the-badge)](https://shubham-t2ki.onrender.com)
 [![GitHub followers](https://img.shields.io/github/followers/shubhamgupta-oss?label=Follow&style=social)](https://github.com/shubhamgupta-oss)
-[![LeetCode](https://img.shields.io/badge/LeetCode-Shubham%20Gupta-orange?logo=leetcode)](https://leetcode.com/u/shubhamgupta/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Shubham%20Gupta-orange?logo=leetcode)](https://leetcode.com/u/shubham18gupta/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Shubham%20Gupta-blue?logo=linkedin)](https://www.linkedin.com/in/shubham-gupta-990756114/)
 [![Email](https://img.shields.io/badge/Email-shubhamagrahari18%40gmail.com-green)](mailto:shubhamagrahari18@gmail.com)
 
