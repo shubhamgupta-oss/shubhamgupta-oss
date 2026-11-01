@@ -60,9 +60,11 @@ Full-stack application using React, Node.js, MongoDB, Cloudinary, and OpenAI API
 <a href="https://github.com/shubhamgupta-oss/imageGeneratorAI">GitHub</a>
 </td>
 <td width="33%" valign="top">
-<b>SEO-Friendly Blog Platform</b>
+<b>She</b>
 <br /><br />
-Blog system with authentication, role-based access, and performance optimizations.
+Voice-first Chrome assistant and Express API for reminders, todos, tab automation, and page summaries.
+<br /><br />
+<a href="https://github.com/shubhamgupta-oss/She">GitHub</a>
 </td>
 </tr>
 </table>
@@ -92,7 +94,7 @@ Blog system with authentication, role-based access, and performance optimization
 
 ### Let’s connect
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-050b18?style=for-the-badge&logo=render&logoColor=fbbf24)](https://shubham-t2ki.onrender.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-shubhamguptaa.in-050b18?style=for-the-badge&logo=googlechrome&logoColor=fbbf24)](https://shubhamguptaa.in)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-050b18?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/shubham-gupta-990756114/)
 [![LeetCode](https://img.shields.io/badge/LeetCode-050b18?style=for-the-badge&logo=leetcode&logoColor=FFA116)](https://leetcode.com/u/shubham18gupta/)
 [![Email](https://img.shields.io/badge/Email-050b18?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:shubhamagrahari18@gmail.com)
