@@ -67,15 +67,6 @@ Blog system with authentication, role-based access, and performance optimization
 </tr>
 </table>
 
-<div align="center">
-
-### GitHub stats
-
-<img src="https://github-readme-stats.vercel.app/api?username=shubhamgupta-oss&show_icons=true&hide_border=true&bg_color=050b18&title_color=fbbf24&icon_color=fbbf24&text_color=e2e8f0&ring_color=fbbf24" alt="Shubham Gupta GitHub stats" height="165" />
-<img src="https://streak-stats.demolab.com?user=shubhamgupta-oss&hide_border=true&background=050b18&ring=fbbf24&fire=fbbf24&currStreakLabel=fbbf24&sideLabels=e2e8f0&dates=94a3b8&currStreakNum=f8fafc&sideNums=f8fafc" alt="GitHub contribution streak" height="165" />
-
-</div>
-
 ### What I’m currently focused on
 
 - Building maintainable, scalable full-stack systems
